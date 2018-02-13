@@ -1,6 +1,5 @@
-Hello World
 
-Hello People,
+#Hello People,
 
 I am Ushan Jayakody.Nick name is "Usher Riddzz".
 
